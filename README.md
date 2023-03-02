@@ -1,3 +1,3 @@
 # helloworld
 first repo
-I love :rugby: and :cycling:
+I love :coffee: and :bicyclist:.
